@@ -1,5 +1,5 @@
 temp.docx
 data.csv
 some.exe
-*.txt
+# //*.txt
 temp
