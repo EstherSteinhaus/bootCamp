@@ -1,2 +1,2 @@
-console.log("hello esti")
+console.log("hello riki and efrat!");
 
